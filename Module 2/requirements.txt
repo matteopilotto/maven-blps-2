@@ -1,0 +1,12 @@
+torch
+transformers
+sentence_transformers
+huggingface_hub
+accelerate
+diffusers
+datasets
+soundfile
+sentencepiece
+opencv-python
+matplotlib
+markdown
