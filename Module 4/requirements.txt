@@ -1,0 +1,8 @@
+pandas
+spacy
+openai
+tiktoken
+gradio
+sentence-transformers
+rank_bm25
+plotly
