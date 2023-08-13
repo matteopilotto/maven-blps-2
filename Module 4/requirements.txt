@@ -1,4 +1,5 @@
 pandas
+pandasql
 spacy
 openai
 tiktoken
