@@ -7,3 +7,12 @@ unstructured
 tabulate
 pdf2image
 chromadb
+sentence_transformers
+unstructured
+plotly
+matplotlib
+tabulate
+pdf2image
+gradio
+faiss-gpu
+linkify-it-py
