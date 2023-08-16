@@ -1,0 +1,9 @@
+rich
+openai
+tiktoken
+wandb
+langchain
+unstructured
+tabulate
+pdf2image
+chromadb
