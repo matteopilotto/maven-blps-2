@@ -1,0 +1,10 @@
+transformers
+accelerate
+peft
+trl
+datasets
+bitsandbytes
+einops
+wandb
+rouge-score
+scipy
